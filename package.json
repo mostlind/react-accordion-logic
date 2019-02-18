@@ -10,5 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "react": "^16.8.2"
+  },
+  "devDependencies": {
+    "@types/react": "^16.8.3"
   }
 }
